@@ -1,4 +1,5 @@
 
+
 <!-- ================== POWER BI QUICK START README ================== -->
 
 <p align="center">
@@ -14,8 +15,6 @@ A <b>skill-focused, practice-driven Power BI repository</b> designed to demonstr
 <strong>end-to-end dashboard creation skills</strong> — from raw data to  
 <strong>interactive, business-ready insights</strong>.
 </p>
-
----
 
 ---
 
@@ -49,6 +48,12 @@ A <b>skill-focused, practice-driven Power BI repository</b> designed to demonstr
 </p>
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/Learning-Continuous-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Power%20BI-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Portfolio-Ready-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dashboard-Interactive-yellow?style=for-the-badge" />
+</p>
 
 ## 🚀 What This Repository Demonstrates
 
@@ -162,9 +167,13 @@ flowchart LR
 ## 📌 Who This Repository Is For
 
 ✔ Students & Beginners
+
 ✔ Data Analyst Aspirants
+
 ✔ Faculty & Trainers
+
 ✔ Professionals upskilling in BI
+
 ✔ Portfolio & Interview Preparation
 
 ---
